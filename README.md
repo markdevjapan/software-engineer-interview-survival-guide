@@ -2,7 +2,7 @@
 
 A curated list of the possible questions that you will be asked in a Software Engineer Interview. 
 
-## Table of contents
+## Table of contents
 
 1. Questions
     1. Internship, Graduate, Entry or Junior Level Software Engineer Interview Questions
@@ -24,6 +24,8 @@ A curated list of the possible questions that you will be asked in a Software En
 ## Coding Tasks & Challenges
 ---
 ### Codility
+
+[Codility](https://www.codility.com/) is one of the most popular online testing platforms for companies to send development tasks to potential candidates, especially in Japan. Rakuten, one of the largest companies in Japan uses this platform religiously.
 
 #### Python
 
