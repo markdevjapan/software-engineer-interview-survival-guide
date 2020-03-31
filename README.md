@@ -4,13 +4,13 @@ A curated list of the possible questions that you will be asked in a Software En
 
 ## Table of contents
 
-1. Questions
-    1. Internship, Graduate, Entry or Junior Level Software Engineer Interview Questions
-    2. Mid-Career Software Engineer Interview Questions
-    3. Senior Software Engineer Interview Questions
-2. Coding Tasks & Challenges
-    1. Codility
-        1. Python
+1. [Questions](#Questions)
+    1. [Internship, Graduate, Entry or Junior Level Software Engineer Interview Questions](#Internship-Graduate-Entry-or-Junior-Level-Software-Engineer-Interview-Questions)
+    2. [Mid-Career Software Engineer Interview Questions](#Mid-Career-Software-Engineer-Interview-Questions)
+    3. [Senior Software Engineer Interview Questions](#Senior-Software-Engineer-Interview-Questions)
+2. [Coding Tasks & Challenges](#Coding-Tasks-Challenges)
+    1. [Codility](#Codility)
+3. [Whiteboard Questioning](#Whiteboard-Questioning)
 
 
 ## Questions
