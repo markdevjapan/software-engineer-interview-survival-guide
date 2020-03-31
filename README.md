@@ -1,6 +1,6 @@
 # The Software Engineer Interview Survival Guide
 
-A curated list of the possible questions that you will be asked in a Software Engineer Interview. 
+A curated list of the possible questions, tasks and general resources to help you ace your next Software Engineer Interview. 
 
 ## Table of contents
 
@@ -8,7 +8,7 @@ A curated list of the possible questions that you will be asked in a Software En
     1. [Internship, Graduate, Entry or Junior Level Software Engineer Interview Questions](#Internship-Graduate-Entry-or-Junior-Level-Software-Engineer-Interview-Questions)
     2. [Mid-Career Software Engineer Interview Questions](#Mid-Career-Software-Engineer-Interview-Questions)
     3. [Senior Software Engineer Interview Questions](#Senior-Software-Engineer-Interview-Questions)
-2. [Coding Tasks & Challenges](#Coding-Tasks-Challenges)
+2. [Coding Tasks & Challenges](#Coding-Tasks--Challenges)
     1. [Codility](#Codility)
 3. [Whiteboard Questioning](#Whiteboard-Questioning)
 
@@ -16,6 +16,8 @@ A curated list of the possible questions that you will be asked in a Software En
 ## Questions
 ---
 ### Internship, Graduate, Entry or Junior Level Software Engineer Interview Questions
+
++ [Please explain scalable code/How do you write scalable code?](https://www.quora.com/How-does-one-write-scalable-code)
 
 ### Mid-Career Software Engineer Interview Questions
 
