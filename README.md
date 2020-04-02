@@ -14,17 +14,18 @@ A curated list of the possible questions, tasks and general resources to help yo
 
 
 ## Questions
----
+
 ### Internship, Graduate, Entry or Junior Level Software Engineer Interview Questions
 
 + [Please explain scalable code/How do you write scalable code?](https://www.quora.com/How-does-one-write-scalable-code)
 
 ### Mid-Career Software Engineer Interview Questions
++ [How do you reverse a linked list?](https://www.geeksforgeeks.org/reverse-a-linked-list)
 
 ### Senior Software Engineer Interview Questions
 
 ## Coding Tasks & Challenges
----
+
 ### Codility
 
 [Codility](https://www.codility.com/) is one of the most popular online testing platforms for companies to send development tasks to potential candidates, especially in Japan. Rakuten, one of the largest companies in Japan uses this platform religiously.
@@ -35,7 +36,10 @@ A curated list of the possible questions, tasks and general resources to help yo
 + [How to solve the Rectilinear Problem](https://github.com/vuamitom/Code-Exercises/blob/master/rakuten/rectilinear.py)
 
 ## Whiteboard Questions
----
 Whiteboard questioning is the practice of asking candidates to solve technical questions on a whiteboard, piece of paper, or computer during the interview and usually on the spot. They can be daunting even to the most seasoned of developers.
 
 + :pushpin: [The Best Whiteboard Interview Advice I Ever Received](https://github.com/vuamitom/Code-Exercises/blob/master/rakuten/rectilinear.py)
+
+## Resources
+
++ [Intro to Computer Science by Khan Academy](https://www.khanacademy.org/computing/computer-science)
