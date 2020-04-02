@@ -19,8 +19,10 @@ A curated list of the possible questions, tasks and general resources to help yo
 
 + [Please explain scalable code/How do you write scalable code?](https://www.quora.com/How-does-one-write-scalable-code)
 
+
 ### Mid-Career Software Engineer Interview Questions
 + [How do you reverse a linked list?](https://www.geeksforgeeks.org/reverse-a-linked-list)
++ [What would you use / implement to serve static content in web application that receive millions of visits per day?](https://www.quora.com/What-would-you-use-implement-to-serve-static-content-in-web-application-that-receive-millions-of-visits-per-day)
 
 ### Senior Software Engineer Interview Questions
 
