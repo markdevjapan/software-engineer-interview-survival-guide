@@ -22,7 +22,7 @@ A curated list of the possible questions, tasks and general resources to help yo
 
 ### Mid-Career Software Engineer Interview Questions
 + [How do you reverse a linked list?](https://www.geeksforgeeks.org/reverse-a-linked-list)
-+ [What would you use / implement to serve static content in web application that receive millions of visits per day?](https://www.quora.com/What-would-you-use-implement-to-serve-static-content-in-web-application-that-receive-millions-of-visits-per-day)
++ [What would you use / implement to serve static content in a web application that receives millions of visits per day?](https://www.quora.com/What-would-you-use-implement-to-serve-static-content-in-web-application-that-receive-millions-of-visits-per-day)
 
 ### Senior Software Engineer Interview Questions
 
@@ -40,7 +40,7 @@ A curated list of the possible questions, tasks and general resources to help yo
 ## Whiteboard Questions
 Whiteboard questioning is the practice of asking candidates to solve technical questions on a whiteboard, piece of paper, or computer during the interview and usually on the spot. They can be daunting even to the most seasoned of developers.
 
-+ :pushpin: [The Best Whiteboard Interview Advice I Ever Received](https://github.com/vuamitom/Code-Exercises/blob/master/rakuten/rectilinear.py)
++ :pushpin: [The Best Whiteboard Interview Advice I Ever Received](https://hackernoon.com/the-best-whiteboard-interview-advice-i-ever-received-3ebbfa72e4a)
 
 ## Resources
 
